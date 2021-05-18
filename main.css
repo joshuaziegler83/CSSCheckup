@@ -1,0 +1,31 @@
+.wrapper{
+    margin: 5px;
+    background-color: white;
+}
+body{
+    background-image: url("../../HTMLCSSPrework/3-assets/TurnForTheWorse-300x300.jpg");
+}
+#title-p{
+    text-align: left;
+}
+.favorites li{
+    margin: 5px;
+}
+.favorites li:nth-child(3){
+    margin: 10px;
+    padding: 5px;
+}
+.favorites li:nth-child(4){
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.favorites li:nth-child(5){
+    background-color: teal;
+}
+.favorites li:nth-child(6){
+    width: 50%;
+    height: 200px;
+}
+
+.favorites li:nth-child(7){
+    border-style:ridge;
+}
